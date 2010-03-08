@@ -8,8 +8,10 @@ See *example.php* for examples of how to use the class.
 
 ## Finding Your API Key ##
 
-Your API key can be found on FriendFeed [here][http://friendfeed.com/account/api].
+Your API key can be found on FriendFeed here:
+http://friendfeed.com/account/api
 
 ## More Information ##
 
-[FriendFeed's API Documentation][http://friendfeed.com/api/documentation]
+FriendFeed's API Documentation:
+http://friendfeed.com/api/documentation
